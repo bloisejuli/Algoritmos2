@@ -15,3 +15,7 @@ Trabajo práctico grupal (2 personas), realizado con memoria dinámica, POO, Her
 [Andypolis: la batalla por el Obelisco](https://github.com/bloisejuli/Algoritmos2/blob/main/tp3/Andypolis%20la%20batalla%20por%20el%20obelisco%20v1.6.pdf) 
 
 Trabajo práctico grupal (4 personas), realizado con POO, Listas, grafos y árbol binario de búsqueda.
+
+## [Ejercicios Final](https://github.com/bloisejuli/Algoritmos2/tree/main/ejercicios_final)
+[Enunciados](https://github.com/bloisejuli/Algoritmos2/blob/main/ejercicios_final/ejercicios%20modelo%20de%20listas.pdf)
+Ejercicios prácticos de final usos e implementación de listas, que realicé para practicar.
